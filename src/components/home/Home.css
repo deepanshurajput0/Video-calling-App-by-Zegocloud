@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+.container{
+    width: 400px;
+    text-align: center;
+}
+
+.himage{
+    height: 350px;
+    border-radius: 10px;
+}
+
+.container input{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid blue;
+}
+.container button{
+    padding: 10px;
+    margin-left: 20px;
+    border: blue;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+
+}
